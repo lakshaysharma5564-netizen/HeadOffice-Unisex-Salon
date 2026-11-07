@@ -1,0 +1,41 @@
+{
+  "name": "HeadOffice Unisex Salon Asset Manifest",
+  "version": "1.0.0",
+  "images": [
+    {
+      "id": "hero",
+      "path": "/images/hero.jpg",
+      "description": "Luxurious contemporary unisex salon interior with styling stations and champagne gold ambient lighting",
+      "aspectRatio": "16:9",
+      "status": "production-ready-local"
+    },
+    {
+      "id": "service-haircut",
+      "path": "/images/service-haircut.jpg",
+      "description": "Professional hairstylist precision haircut and sculpt in modern salon setting",
+      "aspectRatio": "4:3",
+      "status": "production-ready-local"
+    },
+    {
+      "id": "service-color",
+      "path": "/images/service-color.jpg",
+      "description": "Global hair colour transformation and styling session",
+      "aspectRatio": "4:3",
+      "status": "production-ready-local"
+    },
+    {
+      "id": "service-facial",
+      "path": "/images/service-facial.jpg",
+      "description": "Facial and skincare treatment in relaxing private spa aesthetic",
+      "aspectRatio": "4:3",
+      "status": "production-ready-local"
+    },
+    {
+      "id": "service-grooming",
+      "path": "/images/service-grooming.jpg",
+      "description": "Precision beard styling and grooming in salon chair",
+      "aspectRatio": "4:3",
+      "status": "production-ready-local"
+    }
+  ]
+}

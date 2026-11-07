@@ -1,0 +1,6 @@
+{
+  "name": "HeadOffice Unisex Salon | Punjabi Bagh, New Delhi",
+  "description": "Premium unisex hair, beauty, and grooming salon on Club Road, Punjabi Bagh, New Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
